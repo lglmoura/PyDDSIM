@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/105/trunk/pydssim/src/pydssim/peer/service
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/85/trunk/pydssim/src/pydssim/peer/service/__init__.py
+END
+hardware_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/86/trunk/pydssim/src/pydssim/peer/service/hardware_service.py
+END
+shared_period.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/pydssim/src/pydssim/peer/service/shared_period.py
+END
+service_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/86/trunk/pydssim/src/pydssim/peer/service/service_service.py
+END
+abstract_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/105/trunk/pydssim/src/pydssim/peer/service/abstract_service.py
+END

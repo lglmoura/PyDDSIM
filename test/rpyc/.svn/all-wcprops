@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/55/trunk/pydssim/test/rpyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/52/trunk/pydssim/test/rpyc/__init__.py
+END
+schat.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/pydssim/test/rpyc/schat.py
+END
+cchat.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/pydssim/test/rpyc/cchat.py
+END
+events.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/pydssim/test/rpyc/events.py
+END

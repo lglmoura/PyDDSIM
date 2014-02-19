@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/52/trunk/pydssim/src/pydssim/network/protocol/dht/kademlia/datastore
+END
+sqllite_datastore.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/51/trunk/pydssim/src/pydssim/network/protocol/dht/kademlia/datastore/sqllite_datastore.py
+END
+i_datastore.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/51/trunk/pydssim/src/pydssim/network/protocol/dht/kademlia/datastore/i_datastore.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/51/trunk/pydssim/src/pydssim/network/protocol/dht/kademlia/datastore/__init__.py
+END
+dict_datastore.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/52/trunk/pydssim/src/pydssim/network/protocol/dht/kademlia/datastore/dict_datastore.py
+END

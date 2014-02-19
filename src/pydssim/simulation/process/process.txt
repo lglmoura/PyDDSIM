@@ -1,0 +1,12 @@
+Iniciar simulacao
+	Criar a rede
+Terminar similacao.
+criar o peer.
+eliminar os peer
+entrar na rede
+sair da rede
+conectar com outros peer
+enviar solicaitacao de torca
+calcular a equivalencia
+calcular a confianca
+trocar recorusos

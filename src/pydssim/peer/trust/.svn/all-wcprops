@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/trust
+END
+trust_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/pydssim/src/pydssim/peer/trust/trust_manager.py
+END
+direct_trust.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/trust/direct_trust.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/trust/__init__.py
+END
+trust_final.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/81/trunk/pydssim/src/pydssim/peer/trust/trust_final.py
+END
+abstract_trust.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/81/trunk/pydssim/src/pydssim/peer/trust/abstract_trust.py
+END

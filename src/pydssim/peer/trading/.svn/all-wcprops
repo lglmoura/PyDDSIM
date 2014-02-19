@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/111/trunk/pydssim/src/pydssim/peer/trading
+END
+trading_service.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/107/trunk/pydssim/src/pydssim/peer/trading/trading_service.py
+END
+abstract_trading.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/108/trunk/pydssim/src/pydssim/peer/trading/abstract_trading.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/pydssim/src/pydssim/peer/trading/__init__.py
+END
+trading_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/112/trunk/pydssim/src/pydssim/peer/trading/trading_manager.py
+END
+information_service_agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/111/trunk/pydssim/src/pydssim/peer/trading/information_service_agent.py
+END

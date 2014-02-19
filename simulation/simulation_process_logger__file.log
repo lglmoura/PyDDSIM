@@ -1,0 +1,97 @@
+seg, 30-ago-2010 01:21:51 - INFO - Initialize NEW PORTAL PEER PROCESS FACTORY
+seg, 30-ago-2010 01:21:51 - INFO - Initialize NEW SUPERPEER PROCESS FACTORY
+seg, 30-ago-2010 01:21:51 - INFO - Initialize NEW DEDAULTPEER PROCESS FACTORY
+seg, 30-ago-2010 01:21:51 - INFO - Initialize BEGIN SIMULATION PROCESS FACTORY
+seg, 30-ago-2010 01:21:51 - INFO - Initialize NEW TRADING PROCESS FACTORY
+seg, 30-ago-2010 01:21:51 - INFO - Factoring Process BEGIN SIMULATION PROCESS FACTORY
+seg, 30-ago-2010 01:21:51 - INFO - Initialize Simulation Process => BEGIN_SIMULATION_PROCESS
+seg, 30-ago-2010 01:21:51 - INFO - Start BEGIN_SIMULATION_PROCESS
+seg, 30-ago-2010 01:21:51 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time       3.00 making peer number : 1 id urn:superpeer:1d2ed100-b3ee-11df-945f-001e6840d4b6
+seg, 30-ago-2010 01:21:51 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time       6.00 making peer number : 1 id urn:peer:1d439180-b3ee-11df-b724-001e6840d4b6
+seg, 30-ago-2010 01:21:51 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      14.00 making peer number : 2 id urn:peer:1d47d740-b3ee-11df-a4c6-001e6840d4b6
+seg, 30-ago-2010 01:21:51 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      24.00 making peer number : 3 id urn:peer:1d4c922e-b3ee-11df-909b-001e6840d4b6
+seg, 30-ago-2010 01:21:51 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      29.00 making peer number : 4 id urn:peer:1d519b40-b3ee-11df-ae12-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      37.00 making peer number : 5 id urn:peer:1d571980-b3ee-11df-946b-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      46.00 making peer number : 6 id urn:peer:1d5c228f-b3ee-11df-8265-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      55.00 making peer number : 7 id urn:peer:1d6438de-b3ee-11df-adb6-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      64.00 making peer number : 8 id urn:peer:1d6b16b0-b3ee-11df-a4ba-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time      67.00 making peer number : 2 id urn:superpeer:1d7094f0-b3ee-11df-838b-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      72.00 making peer number : 9 id urn:peer:1d759e00-b3ee-11df-a1fe-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      79.00 making peer number : 10 id urn:peer:1d7b434f-b3ee-11df-89dc-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      86.00 making peer number : 11 id urn:peer:1d82482e-b3ee-11df-bb70-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      91.00 making peer number : 12 id urn:peer:1d8be51e-b3ee-11df-a48e-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      99.00 making peer number : 13 id urn:peer:1d93d45e-b3ee-11df-820a-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     106.00 making peer number : 14 id urn:peer:1d9bc39e-b3ee-11df-9ccd-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     113.00 making peer number : 15 id urn:peer:1da4c44f-b3ee-11df-bee7-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     120.00 making  : id urn:trading:1db12061-b3ee-11df-8e4a-001e6840d4b6
+seg, 30-ago-2010 01:21:52 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     122.00 making peer number : 16 id urn:peer:1db1bca1-b3ee-11df-8a8c-001e6840d4b6
+seg, 30-ago-2010 01:21:53 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time     123.00 making peer number : 3 id urn:superpeer:1e18bbcf-b3ee-11df-b228-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     131.00 making peer number : 17 id urn:peer:1e8debd1-b3ee-11df-bab2-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     139.00 making peer number : 18 id urn:peer:1ea125b0-b3ee-11df-9c9c-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     146.00 making peer number : 19 id urn:peer:1eb39c40-b3ee-11df-8f0f-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     151.00 making peer number : 20 id urn:peer:1ec883cf-b3ee-11df-8423-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     159.00 making peer number : 21 id urn:peer:1ede55c0-b3ee-11df-8903-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     167.00 making peer number : 22 id urn:peer:1ef89480-b3ee-11df-a5af-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     168.00 making  : id urn:trading:1f0f02b0-b3ee-11df-9a0f-001e6840d4b6
+seg, 30-ago-2010 01:21:54 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     174.00 making peer number : 23 id urn:peer:1f0f50cf-b3ee-11df-af94-001e6840d4b6
+seg, 30-ago-2010 01:21:55 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time     179.00 making peer number : 4 id urn:superpeer:1f399521-b3ee-11df-a854-001e6840d4b6
+seg, 30-ago-2010 01:21:55 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     182.00 making peer number : 24 id urn:peer:1f4a0fde-b3ee-11df-9e58-001e6840d4b6
+seg, 30-ago-2010 01:21:55 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     192.00 making peer number : 25 id urn:peer:1f778880-b3ee-11df-ae32-001e6840d4b6
+seg, 30-ago-2010 01:21:55 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     201.00 making peer number : 26 id urn:peer:1f9856ee-b3ee-11df-ba79-001e6840d4b6
+seg, 30-ago-2010 01:21:56 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     204.00 making  : id urn:trading:1fc3859e-b3ee-11df-86e6-001e6840d4b6
+seg, 30-ago-2010 01:21:56 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     211.00 making peer number : 27 id urn:peer:1fc421e1-b3ee-11df-a4cb-001e6840d4b6
+seg, 30-ago-2010 01:21:56 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     220.00 making peer number : 28 id urn:peer:200fd0de-b3ee-11df-aa5d-001e6840d4b6
+seg, 30-ago-2010 01:21:56 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     230.00 making peer number : 29 id urn:peer:2042a0b0-b3ee-11df-825a-001e6840d4b6
+seg, 30-ago-2010 01:21:57 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     236.00 making peer number : 30 id urn:peer:2081a580-b3ee-11df-ac84-001e6840d4b6
+seg, 30-ago-2010 01:21:57 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time     237.00 making peer number : 5 id urn:superpeer:20bcd9c0-b3ee-11df-8de7-001e6840d4b6
+seg, 30-ago-2010 01:21:57 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     246.00 making peer number : 31 id urn:peer:20c6ebde-b3ee-11df-9e89-001e6840d4b6
+seg, 30-ago-2010 01:21:58 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     251.00 making peer number : 32 id urn:peer:20fcf000-b3ee-11df-899b-001e6840d4b6
+seg, 30-ago-2010 01:21:58 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Siseg, 30-ago-2010 01:24:29 - INFO - Initialize NEW PORTAL PEER PROCESS FACTORY
+seg, 30-ago-2010 01:24:29 - INFO - Initialize NEW SUPERPEER PROCESS FACTORY
+seg, 30-ago-2010 01:24:29 - INFO - Initialize NEW DEDAULTPEER PROCESS FACTORY
+seg, 30-ago-2010 01:24:29 - INFO - Initialize BEGIN SIMULATION PROCESS FACTORY
+seg, 30-ago-2010 01:24:29 - INFO - Initialize NEW TRADING PROCESS FACTORY
+seg, 30-ago-2010 01:24:29 - INFO - Factoring Process BEGIN SIMULATION PROCESS FACTORY
+seg, 30-ago-2010 01:24:29 - INFO - Initialize Simulation Process => BEGIN_SIMULATION_PROCESS
+seg, 30-ago-2010 01:24:29 - INFO - Start BEGIN_SIMULATION_PROCESS
+seg, 30-ago-2010 01:24:29 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time       3.00 making peer number : 1 id urn:superpeer:7b7fb6c0-b3ee-11df-8a14-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time       6.00 making peer number : 1 id urn:peer:7b83fc80-b3ee-11df-ac6e-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      15.00 making peer number : 2 id urn:peer:7b88de80-b3ee-11df-8750-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      24.00 making peer number : 3 id urn:peer:7b8e83cf-b3ee-11df-9325-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      31.00 making peer number : 4 id urn:peer:7b942921-b3ee-11df-8e98-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      38.00 making peer number : 5 id urn:peer:7b995940-b3ee-11df-b4b3-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      44.00 making peer number : 6 id urn:peer:7ba54021-b3ee-11df-a9d9-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      54.00 making peer number : 7 id urn:peer:7bb0fff0-b3ee-11df-950f-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time      59.00 making peer number : 2 id urn:superpeer:7bbd830f-b3ee-11df-a6f2-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      63.00 making peer number : 8 id urn:peer:7bc2b330-b3ee-11df-b77e-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      71.00 making peer number : 9 id urn:peer:7bcff9a1-b3ee-11df-8745-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      79.00 making peer number : 10 id urn:peer:7bd80ff0-b3ee-11df-88e2-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      87.00 making peer number : 11 id urn:peer:7be50840-b3ee-11df-9059-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time      97.00 making peer number : 12 id urn:peer:7bf6bb80-b3ee-11df-b648-001e6840d4b6
+seg, 30-ago-2010 01:24:30 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     104.00 making peer number : 13 id urn:peer:7c0c3f4f-b3ee-11df-b9c9-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     110.00 making peer number : 14 id urn:peer:7c1e67c0-b3ee-11df-9367-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     116.00 making peer number : 15 id urn:peer:7c3216cf-b3ee-11df-95f7-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time     119.00 making peer number : 3 id urn:superpeer:7c41f54f-b3ee-11df-b8a8-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     120.00 making  : id urn:trading:7c466221-b3ee-11df-876a-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     123.00 making peer number : 16 id urn:peer:7c46b040-b3ee-11df-8da1-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     131.00 making peer number : 17 id urn:peer:7c71def0-b3ee-11df-9462-001e6840d4b6
+seg, 30-ago-2010 01:24:31 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     140.00 making peer number : 18 id urn:peer:7c956c80-b3ee-11df-8fa2-001e6840d4b6
+seg, 30-ago-2010 01:24:32 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     148.00 making peer number : 19 id urn:peer:7cb2df8f-b3ee-11df-b795-001e6840d4b6
+seg, 30-ago-2010 01:24:32 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     150.00 making  : id urn:trading:7cdb280f-b3ee-11df-b68f-001e6840d4b6
+seg, 30-ago-2010 01:24:32 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     155.00 making peer number : 20 id urn:peer:7cdb7630-b3ee-11df-b27e-001e6840d4b6
+seg, 30-ago-2010 01:24:32 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     165.00 making peer number : 21 id urn:peer:7d335a30-b3ee-11df-8dc2-001e6840d4b6
+seg, 30-ago-2010 01:24:33 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     172.00 making peer number : 22 id urn:peer:7d6ae4ee-b3ee-11df-8171-001e6840d4b6
+seg, 30-ago-2010 01:24:33 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time     182.00 making peer number : 4 id urn:superpeer:7db02b4f-b3ee-11df-a863-001e6840d4b6
+seg, 30-ago-2010 01:24:33 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     182.00 making peer number : 23 id urn:peer:7dbc8761-b3ee-11df-b024-001e6840d4b6
+seg, 30-ago-2010 01:24:34 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     186.00 making  : id urn:trading:7df0689e-b3ee-11df-96a0-001e6840d4b6
+seg, 30-ago-2010 01:24:34 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     189.00 making peer number : 24 id urn:peer:7df104e1-b3ee-11df-a3cb-001e6840d4b6
+seg, 30-ago-2010 01:24:34 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     194.00 making peer number : 25 id urn:peer:7e6e2421-b3ee-11df-b1d6-001e6840d4b6
+seg, 30-ago-2010 01:24:35 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     200.00 making peer number : 26 id urn:peer:7ebf0340-b3ee-11df-b396-001e6840d4b6
+seg, 30-ago-2010 01:24:36 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     208.00 making peer number : 27 id urn:peer:7f190a1e-b3ee-11df-945f-001e6840d4b6
+seg, 30-ago-2010 01:24:36 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     216.00 making peer number : 28 id urn:peer:7f7ef7de-b3ee-11df-a9a2-001e6840d4b6
+seg, 30-ago-2010 01:24:37 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     221.00 making peer number : 29 id urn:peer:7fe7cbcf-b3ee-11df-b5c3-001e6840d4b6
+seg, 30-ago-2010 01:24:38 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     229.00 making peer number : 30 id urn:peer:805d22de-b3ee-11df-af28-001e6840d4b6
+seg, 30-ago-2010 01:24:38 - INFO - Factoring Process NEW TRADING PROCESS FACTORY => Simulation Time     234.00 making  : id urn:trading:80c2c280-b3ee-11df-9e7a-001e6840d4b6
+seg, 30-ago-2010 01:24:38 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Time     236.00 making peer number : 31 id urn:peer:80c385cf-b3ee-11df-a901-001e6840d4b6
+seg, 30-ago-2010 01:24:39 - INFO - Factoring Process NEW SUPERPEER PROCESS FACTORY => Simulation Time     238.00 making peer number : 5 id urn:superpeer:8170b5c0-b3ee-11df-a4ea-001e6840d4b6
+seg, 30-ago-2010 01:24:40 - INFO - Factoring Process NEW DEDAULTPEER PROCESS FACTORY => Simulation Ti

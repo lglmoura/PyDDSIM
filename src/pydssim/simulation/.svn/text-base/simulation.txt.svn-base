@@ -1,0 +1,20 @@
+definir parametros par simulacao
+   numero de peer
+   tempo de simulacao
+   tipo de rede : Grid ou P2p
+   
+
+
+Iniciar simulacao
+	Criar a rede
+
+Terminar similacao.
+criar o peer.
+eliminar os peer
+entrar na rede
+sair da rede
+conectar com outros peer
+enviar solicaitacao de torca
+calcular a equivalencia
+calcular a confianca
+trocar recorusos

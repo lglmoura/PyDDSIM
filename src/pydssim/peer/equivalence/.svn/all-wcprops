@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/95/trunk/pydssim/src/pydssim/peer/equivalence
+END
+abstract_service_equivalence.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/95/trunk/pydssim/src/pydssim/peer/equivalence/abstract_service_equivalence.py
+END
+service_equivalence.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/92/trunk/pydssim/src/pydssim/peer/equivalence/service_equivalence.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/82/trunk/pydssim/src/pydssim/peer/equivalence/__init__.py
+END
+equivalence.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/86/trunk/pydssim/src/pydssim/peer/equivalence/equivalence.py
+END

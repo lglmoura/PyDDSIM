@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111/trunk/pydssim/src/pydssim/peer/repository
+END
+tradings_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/86/trunk/pydssim/src/pydssim/peer/repository/tradings_repository.py
+END
+direct_trust_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/repository/direct_trust_repository.py
+END
+abstract_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/111/trunk/pydssim/src/pydssim/peer/repository/abstract_repository.py
+END
+history_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/repository/history_repository.py
+END
+service_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/repository/service_repository.py
+END
+i_profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/pydssim/src/pydssim/peer/repository/i_profile.py
+END
+shared_recource_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/repository/shared_recource_repository.py
+END
+trust_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/77/trunk/pydssim/src/pydssim/peer/repository/trust_repository.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/pydssim/src/pydssim/peer/repository/__init__.py
+END
+equivalence_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/83/trunk/pydssim/src/pydssim/peer/repository/equivalence_repository.py
+END
+trust_final_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/76/trunk/pydssim/src/pydssim/peer/repository/trust_final_repository.py
+END
+default_repository.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/pydssim/src/pydssim/peer/repository/default_repository.py
+END

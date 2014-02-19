@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/pydssim/src/pydssim/network/advertisement
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/20/trunk/pydssim/src/pydssim/network/advertisement/__init__.py
+END
+i_advertisement.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/21/trunk/pydssim/src/pydssim/network/advertisement/i_advertisement.py
+END
+content_advertisement.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/21/trunk/pydssim/src/pydssim/network/advertisement/content_advertisement.py
+END
+abstract_advertisement.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/21/trunk/pydssim/src/pydssim/network/advertisement/abstract_advertisement.py
+END

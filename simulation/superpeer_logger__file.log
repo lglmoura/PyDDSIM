@@ -1,0 +1,101 @@
+seg, 30-ago-2010 01:21:51 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:21:51 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:21:52 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:21:52 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:21:52 - INFO - Add SuperPeer 192.168.0.171:3000 in level : 192.168.0.171:3001
+seg, 30-ago-2010 01:21:52 - INFO - Add SuperPeer 192.168.0.171:3001 in level : 192.168.0.171:3000
+seg, 30-ago-2010 01:21:52 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:21:52 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:21:52 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:21:52 - INFO - Update 192.168.0.171:3000 in level 2
+seg, 30-ago-2010 01:21:53 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:21:53 - INFO - Insert SuperPeers (192.168.0.171,3002)
+seg, 30-ago-2010 01:21:54 - INFO - Add SuperPeer 192.168.0.171:3001 in level : 192.168.0.171:3002
+seg, 30-ago-2010 01:21:54 - INFO - Add SuperPeer 192.168.0.171:3002 in level : 192.168.0.171:3001
+seg, 30-ago-2010 01:21:54 - INFO - Insert SuperPeers (192.168.0.171,3002)
+seg, 30-ago-2010 01:21:54 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:21:54 - INFO - Update 192.168.0.171:3001 in level 3
+seg, 30-ago-2010 01:21:55 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:21:55 - INFO - Add SuperPeer 192.168.0.171:3002 in level : 192.168.0.171:3003
+seg, 30-ago-2010 01:21:55 - INFO - Add SuperPeer 192.168.0.171:3003 in level : 192.168.0.171:3002
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3002)
+seg, 30-ago-2010 01:21:55 - INFO - Update 192.168.0.171:3002 in level 2
+seg, 30-ago-2010 01:21:55 - INFO - Add SuperPeer 192.168.0.171:3000 in level : 192.168.0.171:3003
+seg, 30-ago-2010 01:21:55 - INFO - Add SuperPeer 192.168.0.171:3003 in level : 192.168.0.171:3000
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:21:55 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:21:55 - INFO - Update 192.168.0.171:3000 in level 3
+seg, 30-ago-2010 01:21:57 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:21:57 - INFO - Insert SuperPeers (192.168.0.171,3004)
+seg, 30-ago-2010 01:21:57 - INFO - Add SuperPeer 192.168.0.171:3001 in level : 192.168.0.171:3004
+seg, 30-ago-2010 01:21:57 - INFO - Add SuperPeer 192.168.0.171:3004 in level : 192.168.0.171:3001
+seg, 30-ago-2010 01:21:57 - INFO - Insert SuperPeers (192.168.0.171,3004)
+seg, 30-ago-2010 01:21:57 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:21:57 - INFO - Update 192.168.0.171:3001 in level 4
+seg, 30-ago-2010 01:22:01 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:22:01 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:22:01 - INFO - Add SuperPeer 192.168.0.171:3004 in level : 192.168.0.171:3005
+seg, 30-ago-2010 01:22:01 - INFO - Add SuperPeer 192.168.0.171:3005 in level : 192.168.0.171:3004
+seg, 30-ago-2010 01:22:01 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:22:01 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:22:01 - INFO - Insert SuperPeers (192.168.0.171,3004)
+seg, 30-ago-2010 01:22:01 - INFO - Update 192.168.0.171:3004 in level 2
+seg, 30-ago-2010 01:22:01 - INFO - Add SuperPeer 192.168.0.171:3000 in level : 192.168.0.171:3005
+seg, 30-ago-2010 01:22:01 - INFO - Add SuperPeer 192.168.0.171:3005 in level : 192.168.0.171:3000
+seg, 30-ago-2010 01:22:01 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:22:01 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:22:0seg, 30-ago-2010 01:24:30 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:24:30 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:24:30 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:24:30 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:24:30 - INFO - Add SuperPeer 192.168.0.171:3000 in level : 192.168.0.171:3001
+seg, 30-ago-2010 01:24:30 - INFO - Add SuperPeer 192.168.0.171:3001 in level : 192.168.0.171:3000
+seg, 30-ago-2010 01:24:30 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:24:30 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:24:30 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:24:30 - INFO - Update 192.168.0.171:3000 in level 2
+seg, 30-ago-2010 01:24:31 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:24:31 - INFO - Insert SuperPeers (192.168.0.171,3002)
+seg, 30-ago-2010 01:24:31 - INFO - Add SuperPeer 192.168.0.171:3001 in level : 192.168.0.171:3002
+seg, 30-ago-2010 01:24:31 - INFO - Add SuperPeer 192.168.0.171:3002 in level : 192.168.0.171:3001
+seg, 30-ago-2010 01:24:31 - INFO - Insert SuperPeers (192.168.0.171,3002)
+seg, 30-ago-2010 01:24:31 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:24:31 - INFO - Update 192.168.0.171:3001 in level 3
+seg, 30-ago-2010 01:24:33 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:24:33 - INFO - Add SuperPeer 192.168.0.171:3002 in level : 192.168.0.171:3003
+seg, 30-ago-2010 01:24:33 - INFO - Add SuperPeer 192.168.0.171:3003 in level : 192.168.0.171:3002
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3002)
+seg, 30-ago-2010 01:24:33 - INFO - Update 192.168.0.171:3002 in level 2
+seg, 30-ago-2010 01:24:33 - INFO - Add SuperPeer 192.168.0.171:3000 in level : 192.168.0.171:3003
+seg, 30-ago-2010 01:24:33 - INFO - Add SuperPeer 192.168.0.171:3003 in level : 192.168.0.171:3000
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3003)
+seg, 30-ago-2010 01:24:33 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:24:33 - INFO - Update 192.168.0.171:3000 in level 3
+seg, 30-ago-2010 01:24:39 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:24:39 - INFO - Insert SuperPeers (192.168.0.171,3004)
+seg, 30-ago-2010 01:24:39 - INFO - Add SuperPeer 192.168.0.171:3001 in level : 192.168.0.171:3004
+seg, 30-ago-2010 01:24:40 - INFO - Add SuperPeer 192.168.0.171:3004 in level : 192.168.0.171:3001
+seg, 30-ago-2010 01:24:40 - INFO - Insert SuperPeers (192.168.0.171,3004)
+seg, 30-ago-2010 01:24:40 - INFO - Insert SuperPeers (192.168.0.171,3001)
+seg, 30-ago-2010 01:24:40 - INFO - Update 192.168.0.171:3001 in level 4
+seg, 30-ago-2010 01:24:48 - INFO - Connecting to PortalPeers (192.168.0.171,2000)
+seg, 30-ago-2010 01:24:48 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:24:48 - INFO - Add SuperPeer 192.168.0.171:3004 in level : 192.168.0.171:3005
+seg, 30-ago-2010 01:24:48 - INFO - Add SuperPeer 192.168.0.171:3005 in level : 192.168.0.171:3004
+seg, 30-ago-2010 01:24:48 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:24:48 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:24:48 - INFO - Insert SuperPeers (192.168.0.171,3004)
+seg, 30-ago-2010 01:24:48 - INFO - Update 192.168.0.171:3004 in level 2
+seg, 30-ago-2010 01:24:48 - INFO - Add SuperPeer 192.168.0.171:3000 in level : 192.168.0.171:3005
+seg, 30-ago-2010 01:24:48 - INFO - Add SuperPeer 192.168.0.171:3005 in level : 192.168.0.171:3000
+seg, 30-ago-2010 01:24:48 - INFO - Insert SuperPeers (192.168.0.171,3005)
+seg, 30-ago-2010 01:24:48 - INFO - Insert SuperPeers (192.168.0.171,3000)
+seg, 30-ago-2010 01:24:4

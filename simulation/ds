@@ -1,0 +1,241 @@
+participant "Peer A" as peera
+participant "TM\n Peer A" as tma
+participant "ISA\n Peer A" as isaa 
+participant "EM\n Peer A" as ema
+participant "TRM\n Peer A" as trma
+
+
+
+participant "Peer B" as peerb
+participant "TM\n Peer B" as tmb
+participant "ISA\n Peer B" as isab 
+participant "TRM\n Peer B" as trmb
+participant "EM\n Peer B" as emb
+
+
+peera->tma : Solicita troca
+activate tma
+tma->isaa : Iniciar processo de troca
+activate isaa
+isaa->ema : Verifica Equivencia
+activate ema
+ema-->isaa : Serviço equivalente
+deactivate ema
+
+isaa->peerb : Pedido de troca de Serviço
+peerb->tmb : solitição de troca
+activate tmb
+tmb->isab : Iniciar processo\n de analise troca
+activate isab
+isab->trmb : Analise da Confiaça
+activate trmb
+alt Serviço Confiável em B
+        trmb-->isab: Serviço confiável
+    else Serviço Não confiável em B
+        trmb-->isab: Serviço não\n confiavel
+        isab-->tmb : Não efetua troca 
+end
+deactivate trmb
+isab->emb : Verifica equivalencia
+activate emb
+alt Serviço Equivalente
+        emb-->isab : Serviço equivalente
+    else Serviço Não equivalente
+        emb-->isab : Não há serviço\n equivalente
+        isab-->tmb : Não efetua troca 
+end
+
+deactivate emb
+
+isab-->tmb : efetua a troca
+tmb-->isaa : Proposta de troca
+
+isaa->trma : Analise da Confiaça
+activate trma
+alt Serviço Confiável em A
+        trma-->isaa: Serviço confiável
+    else Serviço Não confiável em A
+        trma-->isaa: Serviço não\n confiavel
+        isaa-->tma : Não efetua troca 
+end
+deactivate trma
+isaa->ema : Verifica equivalencia
+activate ema
+alt Serviço Equivalente
+        ema-->isaa : Serviço equivalente
+    else Serviço Não equivalente
+        ema-->isaa : Não há serviço\n equivalente
+        isaa-->tma : Não efetua troca 
+end
+
+deactivate ema
+
+isaa->isaa : escolha o melhor\n peer para troca
+alt Vencedor
+        isaa->isab : Vencedor
+        
+    else  Não Vencedor
+        isaa->isab : Não venceu        
+end
+
+
+alt Participar
+        isab->isaa : Aceito
+        isab->isaa : Certificado de troca
+        isaa->isab : Certificado de troca
+    else Não Participar
+        isab-->isaa : Não Aceito       
+end
+
+deactivate isab
+deactivate isaa
+
+note over  tma: TM - Tranding Manager 
+note over  isaa: ISA - Information Service Agent
+note over  ema: EM - Equivalence Manager 
+note over  trma: TRM - Trust Manager
+
+
+..................
+
+peer a
+
+participant "Peer A" as peera
+participant "TM\n Peer A" as tma
+participant "ISA\n Peer A" as isaa 
+participant "EM\n Peer A" as ema
+participant "TRM\n Peer A" as trma
+
+note left of peera 
+        Mecanismo de Troca
+        Peer A
+    end note
+
+
+participant "Peer B" as peerb
+
+
+
+peera->tma : Solicita troca
+activate tma
+tma->isaa : Iniciar processo de troca
+activate isaa
+isaa->ema : Verifica Equivencia
+activate ema
+ema-->isaa : Serviço equivalente
+deactivate ema
+
+isaa->peerb : Pedido de troca de Serviço
+
+peerb-->isaa : Proposta de troca
+
+isaa->trma : Analise da Confiaça
+activate trma
+alt Serviço Confiável em A
+        trma-->isaa: Serviço confiável
+    else Serviço Não confiável em A
+        trma-->isaa: Serviço não\n confiavel
+        isaa-->tma : Não efetua troca 
+end
+deactivate trma
+isaa->ema : Verifica equivalencia
+activate ema
+alt Serviço Equivalente
+        ema-->isaa : Serviço equivalente
+    else Serviço Não equivalente
+        ema-->isaa : Não há serviço\n equivalente
+        isaa-->tma : Não efetua troca 
+end
+
+deactivate ema
+
+isaa->isaa : escolha o melhor\n peer para troca
+alt Vencedor
+        isaa->peerb : Vencedor
+        
+    else  Não Vencedor
+        isaa->peerb : Não venceu        
+end
+
+
+alt Participar
+        peerb->isaa : Aceito
+        peerb->isaa : Certificado de troca
+        isaa->peerb : Certificado de troca
+    else Não Participar
+        peerb-->isaa : Não Aceito       
+end
+
+
+deactivate isaa
+
+note over  tma: TM - Tranding Manager 
+note over  isaa: ISA - Information Service Agent
+note over  ema: EM - Equivalence Manager 
+note over  trma: TRM - Trust Manager
+
+
+...................
+peer b
+
+participant "Peer A" as peera
+
+note left of peera 
+        Mecanismo de Troca
+        Peer B
+    end note
+
+
+participant "Peer B" as peerb
+participant "TM\n Peer B" as tmb
+participant "ISA\n Peer B" as isab 
+participant "TRM\n Peer B" as trmb
+participant "EM\n Peer B" as emb
+
+peera->peerb : Pedido de troca de Serviço
+peerb->tmb : solitição de troca
+activate tmb
+tmb->isab : Iniciar processo\n de analise troca
+activate isab
+isab->trmb : Analise da Confiaça
+activate trmb
+alt Serviço Confiável em B
+        trmb-->isab: Serviço confiável
+    else Serviço Não confiável em B
+        trmb-->isab: Serviço não\n confiavel
+        isab-->tmb : Não efetua troca 
+end
+deactivate trmb
+isab->emb : Verifica equivalencia
+activate emb
+alt Serviço Equivalente
+        emb-->isab : Serviço equivalente
+    else Serviço Não equivalente
+        emb-->isab : Não há serviço\n equivalente
+        isab-->tmb : Não efetua troca 
+end
+
+deactivate emb
+
+isab-->tmb : efetua a troca
+tmb-->peera: Proposta de troca
+
+alt Vencedor
+        peera->isab : Vencedor
+        
+    else  Não Vencedor
+        peera->isab : Não venceu        
+end
+
+
+alt Participar
+        isab->peera: Aceito
+        isab->peera: Certificado de troca
+        peera->isab : Certificado de troca
+    else Não Participar
+        isab-->peera: Não Aceito       
+end
+
+deactivate isab
+
+

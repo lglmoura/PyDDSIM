@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/message
+END
+message_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/message/message_manager.py
+END
+i_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/message/i_message.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/message/__init__.py
+END
+abstract_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/message/abstract_message.py
+END
+default_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/102/trunk/pydssim/src/pydssim/peer/message/default_message.py
+END

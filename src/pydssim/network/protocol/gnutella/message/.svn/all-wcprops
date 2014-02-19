@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/49/trunk/pydssim/src/pydssim/network/protocol/gnutella/message
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/pydssim/src/pydssim/network/protocol/gnutella/message/__init__.py
+END
+advertise_content_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/49/trunk/pydssim/src/pydssim/network/protocol/gnutella/message/advertise_content_message.py
+END

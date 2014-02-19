@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/pydssim/src/pydssim/network/protocol/gnutella/dispatcher
+END
+advertise_content_message_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/pydssim/src/pydssim/network/protocol/gnutella/dispatcher/advertise_content_message_handler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/pydssim/src/pydssim/network/protocol/gnutella/dispatcher/__init__.py
+END
